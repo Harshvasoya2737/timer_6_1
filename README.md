@@ -4,3 +4,8 @@ Timer_app_ui
 ![UI-3](https://github.com/Harshvasoya2737/timer_6_1/assets/148517061/2689b8c4-733a-4182-953d-9b2c080cf478)
 ![UI-4](https://github.com/Harshvasoya2737/timer_6_1/assets/148517061/b0ddee59-edef-4ad2-8ee5-5001e0f0f4a9)
 ![UI-5](https://github.com/Harshvasoya2737/timer_6_1/assets/148517061/46e0c3d2-fbe0-4e5e-81a2-c59247a8a5d4)
+
+Timer_app_recording
+
+https://github.com/Harshvasoya2737/timer_6_1/assets/148517061/5ff06fca-cb33-4c52-b1bc-a8cea55e6a46
+
